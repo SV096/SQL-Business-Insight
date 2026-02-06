@@ -92,8 +92,4 @@ This project demonstrates the ability to:
 - Translate data into meaningful business insights
 - Build a strong foundation for entry-level Data Analyst roles
 
----
 
-## 📌 Next Steps
-- Visualize insights using Power BI or Python
-- Extend analysis with customer segmentation or cohort analysis
